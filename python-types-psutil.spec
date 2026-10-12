@@ -2,7 +2,7 @@
 %define oname types_psutil
 
 Name:		python-types-psutil
-Version:	7.2.2.20260518
+Version:	7.2.2.20260906
 Release:	1
 Summary:	Typing stubs for psutil
 URL:		https://pypi.org/project/types-psutil/
